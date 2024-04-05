@@ -32,11 +32,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ![](https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark) -->
+<!-- if you do <details open> then it starts opened -->
 
 <details>
   <summary> Leetcode Stats </summary>
   <img align="left" alt="hutnerr's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark" />
 </details>
+
+![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)(https://open.spotify.com/user/hutnerr)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=hutnerr&repo=pylmpis&theme=dark) -->
 
