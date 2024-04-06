@@ -39,8 +39,6 @@
   <img align="left" alt="hutnerr's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark" />
 </details>
 
-![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)(https://open.spotify.com/user/hutnerr)
-
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=hutnerr&repo=pylmpis&theme=dark) -->
 
 <p align="left">
