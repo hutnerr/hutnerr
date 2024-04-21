@@ -1,14 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am Hunter</h1>
 
+### About Me
 - Student at [James Madison University](https://www.jmu.edu/index.shtml)
 - Member of Upsilon Pi Epsilon
-- I am currently interested in learning Web Development as well as Game Development using Godot 4. 
+
+### Goals
+- Lock in
+
+### Learning
+- Web Development
+- Godot Game Development
 
 <!-- <a href="LINK" target="_blank" rel="noreferrer"> <img src="IMAGELINK" alt="NAME" width="40" height="40"/> </a>  -->
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hutnerr&theme=github-dark-dimmed&custom_title=hutnerr%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🧰 Languages and Tools
+### Languages and Tools
 <!-- Languages -->
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -25,22 +30,33 @@
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 </p>
 
-## 📊 Stats 
-
-![](https://github-readme-stats.vercel.app/api?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- ![](https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark) -->
 <!-- if you do <details open> then it starts opened -->
+### Stats 
 
 <details>
-  <summary> Leetcode Stats </summary>
-  <img align="left" alt="hutnerr's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark" />
+  <summary><b>📊 Graph</b></summary>
+    <br />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutnerr&theme=github-dark-dimmed&custom_title=hutnerr%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+  
+</details>
+
+<details>
+  <summary><b>🤖 Github </b></summary>
+    <br />
+    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
+    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" />
+    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</details>
+
+<details>
+  <summary><b>🏆 Leetcode</b></summary>
+  <br />
+  <img height="180em" align="left" alt="hutnerr's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark" />
 </details>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=hutnerr&repo=pylmpis&theme=dark) -->
-
+<br />
 <p align="left">
   <a href="https://www.linkedin.com/in/hunter-b-baker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunter baker" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/hutnerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hutnerr" height="30" width="40" /></a>
