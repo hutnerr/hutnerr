@@ -7,6 +7,9 @@
 ### Goals
 - Lock in
 
+### Interests
+- Discord Bots
+
 ### Learning
 - Web Development
 - Godot Game Development
