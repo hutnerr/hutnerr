@@ -1,71 +1,47 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me </h1>
+<h1> Hey! I am Hunter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-### Me
-- Student at [James Madison University](https://www.jmu.edu/index.shtml)
-- Member of Upsilon Pi Epsilon
+I am a Computer Science Major with a Creative Writing Minor at [James Madison University](https://www.jmu.edu/index.shtml). 
+Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors society for Computing and Information. I am a lifelong learner who is looking to make their mark in the world and trying to become 1% better each day. 
 
-### Goals
-- Lock in
-
-### Interests
-- Discord Bots
-
-### Learning
+**I am currently learning:**
 - Web Development
+- Computer Systems
 - Godot Game Development
 
-<!-- <a href="LINK" target="_blank" rel="noreferrer"> <img src="IMAGELINK" alt="NAME" width="40" height="40"/> </a>  -->
+**I am currently working on:**
+- A LeetCode Discord Bot
+- My Personal Website
 
-### Languages and Tools
-<!-- Languages -->
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> 
-<!-- Major Dev Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!-- IDEs -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
-<!-- Other -->
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a> 
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png" alt="obsidian" width="40" height="40"/> </a> 
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a> 
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-Leetcode-black?d14836?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/hutnerr/)
 
-<!-- ![](https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark) -->
-<!-- if you do <details open> then it starts opened -->
-### Stats 
+**Languages & Tools**
+<br/>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" alt="Java"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"></code>
+<br/>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Eclipse-Dark.svg" alt="Eclipse"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Godot-Dark.svg" alt="Godot"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
+
 
 <details>
-  <summary><b>📊 Graph</b></summary>
-    <br />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutnerr&theme=github-dark-dimmed&custom_title=hutnerr%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-  
+  <summary><strong>📈 My Graph</strong></summary>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutnerr&theme=github-dark-dimmed&custom_title=hutnerr%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </details>
 
 <details>
-  <summary><b>🤖 Github </b></summary>
-    <br />
-    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
-    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" />
-    <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <summary><b>🤖 Github Stats</b></summary>
+  <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" />
+  <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </details>
-
-<details>
-  <summary><b>🏆 Leetcode</b></summary>
-  <br />
-  <img height="180em" align="left" alt="hutnerr's Leetcode Stats" src="https://leetcode-stats-six.vercel.app/api?username=hutnerr&theme=dark" />
-</details>
-
-<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=hutnerr&repo=pylmpis&theme=dark) -->
-<br />
-<p align="left">
-  <a href="https://www.linkedin.com/in/hunter-b-baker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunter baker" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/hutnerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hutnerr" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/hutnerr" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="hutnerr" height="30" width="40" /></a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hutnerr&label=Profile%20views&color=0e75b6&style=flat" alt="hutnerr" /> </p>
-<img alt="followers" src="https://img.shields.io/github/followers/hutnerr?label=Followers&style=social">
-<img src="https://img.shields.io/github/stars/hutnerr?label=Stars" alt="stars">
