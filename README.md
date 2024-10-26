@@ -6,11 +6,10 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 **I am currently learning:**
 - Web Development
 - Computer Systems
-- Godot Game Development
 
 **I am currently working on:**
 - A LeetCode Discord Bot
-- My Personal Website
+- Obsidian.md Plugins
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
