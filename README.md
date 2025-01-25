@@ -3,13 +3,16 @@
 I am a Computer Science Major with a Creative Writing Minor at [James Madison University](https://www.jmu.edu/index.shtml). 
 Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors society for Computing and Information. I am a lifelong learner who is looking to make their mark in the world and trying to become 1% better each day. 
 
+[Check out my website!](https://www.hunter-baker.com/)
+
 **I am currently learning:**
-- Web Development
+- Applied Algorithms
+- Personal Navigation Systems
 - Computer Systems
 
 **I am currently working on:**
 - A LeetCode Discord Bot
-- Obsidian.md Plugins
+- C Command Line Utils
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
