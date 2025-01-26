@@ -13,6 +13,7 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 **I am currently working on:**
 - A LeetCode Discord Bot
 - C Command Line Utils
+- My Personal Website
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
@@ -44,6 +45,6 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 
 <details>
   <summary><b>🤖 Github Stats</b></summary>
-  <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" />
+<!--   <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" /> -->
   <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </details>
