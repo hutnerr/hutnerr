@@ -6,14 +6,14 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 [Check out my website!](https://www.hunter-baker.com/)
 
 **I am currently learning:**
-- Applied Algorithms
-- Personal Navigation Systems
-- Computer Systems
+- Robotics
+- Database Systems
+- Operating Systems
+- Programming Languages
 
 **I am currently working on:**
-- A LeetCode Discord Bot
-- C Command Line Utils
-- My Personal Website
+- [A LeetCode Discord Bot](https://github.com/hutnerr/leetcode-bot)
+- [Godot Playground](https://github.com/hutnerr/godot-playground)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
