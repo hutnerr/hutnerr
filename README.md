@@ -4,6 +4,8 @@ I am a Computer Science Major with a Creative Writing Minor at [James Madison Un
 Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors society for Computing and Information. I am a lifelong learner who is looking to make their mark in the world and trying to become 1% better each day. 
 
 [Check out my website!](https://www.hunter-baker.com/)
+<br>
+[Check out my LeetCode Discord Bot!](https://github.com/hutnerr/leetcode-bot)
 
 **I am currently learning:**
 - Robotics
@@ -12,7 +14,6 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 - Programming Languages
 
 **I am currently working on:**
-- [A LeetCode Discord Bot](https://github.com/hutnerr/leetcode-bot)
 - [Godot Playground](https://github.com/hutnerr/godot-playground)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
