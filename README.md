@@ -8,7 +8,6 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 [Check out my LeetCode Discord Bot!](https://github.com/hutnerr/leetcode-bot)
 
 **I am currently learning:**
-- Robotics
 - Database Systems
 - Operating Systems
 - Programming Languages
