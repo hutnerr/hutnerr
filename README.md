@@ -48,3 +48,8 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 <!--   <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" /> -->
   <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </details>
+
+<!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg" alt="PostgreSQL"></code> -->
+<!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="PostgreSQL"></code> -->
+<!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rust.svg" alt="PostgreSQL"></code> -->
+<!-- <br/> -->
