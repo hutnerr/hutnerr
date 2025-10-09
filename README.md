@@ -13,6 +13,7 @@ Here I am a member of [Upsilon Pi Epsilon](https://upe.acm.org/), an honors soci
 - Programming Languages
 
 **I am currently working on:**
+- [Tip Calculator Java App](https://github.com/hutnerr/tip-calculator)
 - [Godot Playground](https://github.com/hutnerr/godot-playground)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
