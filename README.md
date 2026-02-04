@@ -8,7 +8,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 
 **I am currently working on:**
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java
-- [File Placer Plugin](https://github.com/hutnerr/fileplacer-plugin) - Plugin for Obsidian which helps with dynamic placement of imported files
+- [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 
 **Some things I've made:**
 - [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
