@@ -40,9 +40,10 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-Leetcode-black?d14836?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/hutnerr/)
+[![LeetCode Badge](https://img.shields.io/badge/-Kofi-blue?d14836?style=flat-square&logo=Kofi&logoColor=white)](https://ko-fi.com/hutner)
 
 
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode"></code> -->
