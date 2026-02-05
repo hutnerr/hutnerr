@@ -8,6 +8,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 
 **I am currently working on:**
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java
+- [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 
 **Some things I've made:**
