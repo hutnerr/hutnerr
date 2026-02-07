@@ -41,7 +41,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
 
-**Socials & Links**
+**[Socials & Links](https://www.hunter-baker.com/pages/other/contact.html)**
 <br/>
 <code><a href="https://www.linkedin.com/in/hunter-b-baker/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"></a></code>
 <code><a href="mailto:hunter.baker.b@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail"></a></code>
