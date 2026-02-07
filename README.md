@@ -50,7 +50,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><a href="https://hutnerr.itch.io/" target="_blank"><img height="32" width="32" src="https://www.svgviewer.dev/static-svgs/401640/itch-io.svg" alt="itch.io"></a></code>
 <code><a href="https://lospec.com/hutner" target="_blank"><img height="32" width="32" src="https://lospec.com/brand/lospec_logomark_16x.jpg" alt="Lospec"></a></code>
 
-
+<!-- <code><a href="https://github.com/Rat-Haven-Studios" target="_blank"><img height="32" width="32" src="https://avatars.githubusercontent.com/u/252910622?s=200&v=4" alt="Rat Haven Studios"></a></code> -->
 
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg" alt="PostgreSQL"></code> -->
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="PostgreSQL"></code> -->
