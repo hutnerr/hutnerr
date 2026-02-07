@@ -41,24 +41,16 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-b-baker/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hunter.baker.b@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hutnerr/)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/hutner)
+**Socials & Links**
+<br/>
+<code><a href="https://www.linkedin.com/in/hunter-b-baker/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"></a></code>
+<code><a href="mailto:hunter.baker.b@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail"></a></code>
+<code><a href="https://leetcode.com/u/hutnerr/" target="_blank"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></a></code>
+<code><a href="https://ko-fi.com/hutner" target="_blank"><img height="32" width="32" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" alt="Ko-fi"></a></code>
+<code><a href="https://hutnerr.itch.io/" target="_blank"><img height="32" width="32" src="https://www.svgviewer.dev/static-svgs/401640/itch-io.svg" alt="itch.io"></a></code>
+<code><a href="https://lospec.com/hutner" target="_blank"><img height="32" width="32" src="https://lospec.com/brand/lospec_logomark_16x.jpg" alt="Lospec"></a></code>
 
-<!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode"></code> -->
-<!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Eclipse-Dark.svg" alt="Eclipse"></code> -->
 
-<!-- <details> -->
-  <!-- <summary><strong>📈 My Graph</strong></summary> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hutnerr&theme=github-dark-dimmed&custom_title=hutnerr%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-<!-- </details> -->
-
-<!-- <details> -->
-  <!-- <summary><b>🤖 Github Stats</b></summary> -->
-  <!-- <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hutnerr&theme=ayu-mirage&hide_border=false" /> -->
-  <!-- <img height="180em" width = "360em" align="left" alt="hutnerr's Leetcode Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hutnerr&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
-<!-- </details> -->
 
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg" alt="PostgreSQL"></code> -->
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="PostgreSQL"></code> -->
