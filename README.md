@@ -7,14 +7,14 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <!--  -->
 
 **I am currently working on:**
-- [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java
 - [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 
 **Some things I've made:**
 - [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art. It posts the [Lospec Daily](https://lospec.com/dailies/) to a channel
-- [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games.
+- [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games
+- [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java
 - [TXTMET](https://github.com/hutnerr/txtmet) - Utility for counting various metrics in text files. Implemented in C and Rust
 - Besides these, there are many more listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html)
 
