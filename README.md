@@ -1,6 +1,6 @@
 <h1> Hey! I am Hunter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-I am a recent Computer Science graduate looking to make an impact in the real world. I am currently looking for employment as well. If you'd like to reach me in any way, you can do that [here!](https://www.hunter-baker.com/pages/other/contact.html)
+I am a recent Computer Science graduate looking to make an impact in the real world. I am currently looking for employment as well. If you'd like to reach me in any way, you can do that [here!](https://www.hunter-baker.com/pages/nav/contact.html)
 <br><br>
 I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-Haven-Studios). You can view and play all of the games I've been a part of making on my [itch.io page](https://hutnerr.itch.io/).
 <!-- [Check out my website!](https://www.hunter-baker.com/) -->
@@ -41,7 +41,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
 
-**[Socials & Links](https://www.hunter-baker.com/pages/other/contact.html)**
+**[Socials & Links](https://www.hunter-baker.com/pages/nav/contact.html)**
 <br/>
 <code><a href="https://www.linkedin.com/in/hunter-b-baker/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"></a></code>
 <code><a href="mailto:hunter.baker.b@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail"></a></code>
