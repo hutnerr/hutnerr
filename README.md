@@ -41,14 +41,13 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
 <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
 
-**[Socials & Links](https://www.hunter-baker.com/pages/nav/contact.html)**
+**Socials & Links**
 <br/>
 <code><a href="https://www.linkedin.com/in/hunter-b-baker/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"></a></code>
 <code><a href="mailto:hunter.baker.b@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail"></a></code>
 <code><a href="https://leetcode.com/u/hutnerr/" target="_blank"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></a></code>
 <code><a href="https://ko-fi.com/hutner" target="_blank"><img height="32" width="32" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" alt="Ko-fi"></a></code>
 <code><a href="https://hutnerr.itch.io/" target="_blank"><img height="32" width="32" src="https://www.svgviewer.dev/static-svgs/401640/itch-io.svg" alt="itch.io"></a></code>
-<code><a href="https://lospec.com/hutner" target="_blank"><img height="32" width="32" src="https://lospec.com/brand/lospec_logomark_16x.jpg" alt="Lospec"></a></code>
 
 <!-- <code><a href="https://github.com/Rat-Haven-Studios" target="_blank"><img height="32" width="32" src="https://avatars.githubusercontent.com/u/252910622?s=200&v=4" alt="Rat Haven Studios"></a></code> -->
 
