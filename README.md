@@ -15,6 +15,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art. It posts the [Lospec Daily](https://lospec.com/dailies/) to a channel
 - [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java. Available on the [Play Store](https://play.google.com/store/apps/details?id=com.hbtipcalc.tipcalculator)
+- [PYUtils](https://github.com/hutnerr/python-utils) - Collection of utilities that I frequently use when working with Python
 - [TXTMET](https://github.com/hutnerr/txtmet) - Utility for counting various metrics in text files. Implemented in C and Rust
 - Besides these, there are many more listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html)
 
