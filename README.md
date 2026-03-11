@@ -6,7 +6,12 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 <!-- [Check out my website!](https://www.hunter-baker.com/) -->
 <!--  -->
 
+<!-- 
 **I am currently working on:**
+- []
+-->
+
+**I am currently trying to publish:**
 - [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 
