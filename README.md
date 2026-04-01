@@ -1,11 +1,9 @@
 <h1> Hey! I am Hunter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-I am a recent Computer Science graduate looking to make an impact in the real world. I am currently looking for employment as well. If you'd like to reach me in any way, you can do that [here!](https://www.hunter-baker.com/pages/nav/contact.html)
+I am a recent Computer Science graduate looking to make an impact in the real world. I am currently looking for employment as well. If you'd like to reach me in any way, you can do that [here](https://www.hunter-baker.com/pages/nav/contact.html)! If you wanted to know more about me, you can find everything on my [portfolio](https://www.hunter-baker.com/).
 <br><br>
-I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-Haven-Studios). You can view and play all of the games I've been a part of making on my [itch.io page](https://hutnerr.itch.io/).
-<!-- [Check out my website!](https://www.hunter-baker.com/) -->
-<!--  -->
- 
+I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-Haven-Studios). You can view and play all of the games I've been a part of making on my [itch.io](https://hutnerr.itch.io/).
+
 **I am currently working on:**
 - [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo
 
@@ -26,7 +24,7 @@ I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-H
 - [Pantry Panic](https://github.com/hutnerr/pantry-panic) - Website that uses the Spoonacular API to provide you recipes based on available ingredients
 - [PYUtils](https://github.com/hutnerr/python-utils) - Collection of utilities that I frequently use when working with Python
 
-All of these projects and more are listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html) with more details and information.
+All of these projects and more are listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html) with additional details and information.
 
 **Languages**
 <br/>
