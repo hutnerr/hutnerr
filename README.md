@@ -5,24 +5,28 @@ I am a recent Computer Science graduate looking to make an impact in the real wo
 I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-Haven-Studios). You can view and play all of the games I've been a part of making on my [itch.io page](https://hutnerr.itch.io/).
 <!-- [Check out my website!](https://www.hunter-baker.com/) -->
 <!--  -->
-
-<!-- 
+ 
 **I am currently working on:**
-- []
--->
+- [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo.
 
-**I am currently trying to publish:**
+**Some apps/tools I've published:**
+- [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
-
-**Some things I've made:**
-- [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art. It posts the [Lospec Daily](https://lospec.com/dailies/) to a channel
 - [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java. Available on the [Play Store](https://play.google.com/store/apps/details?id=com.hbtipcalc.tipcalculator)
+- [TXTMET](https://github.com/hutnerr/txtmet) - Utility for counting various metrics in text files. Implemented in C and Rust. 
+
+**Other things I've made:**
+- [NavSys](https://github.com/hutnerr/navsys) - Navigation Application with real-time updates, map matching, and route relocation.
+- [Blackbox Challenge](https://github.com/hutnerr/blackbox-challenge) - TUI App that implements a custom grammar as well as Lexer and Parser for a black box minigame.
+- [UnitED Calculator](https://github.com/hutnerr/united) - Calculator which is able to perform calculations across various different unit types.
+- [MadZip](https://github.com/hutnerr/madzip) - Custom file compression utility using Huffman Coding, comparable to 7-Zip and gzip.
+- [Pantry Panic](https://github.com/hutnerr/pantry-panic) - Website that provides you recipes based on the ingredients available in your pantry. Uses Spoonacular API.
 - [PYUtils](https://github.com/hutnerr/python-utils) - Collection of utilities that I frequently use when working with Python
-- [TXTMET](https://github.com/hutnerr/txtmet) - Utility for counting various metrics in text files. Implemented in C and Rust
-- Besides these, there are many more listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html)
+
+All of these projects and more are listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html) with more details and information.
 
 **Languages**
 <br/>
