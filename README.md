@@ -57,6 +57,16 @@ All of these projects and more are listed on my [portfolio](https://www.hunter-b
 <code><a href="https://ko-fi.com/hutner" target="_blank"><img height="32" width="32" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" alt="Ko-fi"></a></code>
 <code><a href="https://hutnerr.itch.io/" target="_blank"><img height="32" width="32" src="https://www.svgviewer.dev/static-svgs/401640/itch-io.svg" alt="itch.io"></a></code>
 
+<!--
+<table>
+  <tr>
+    <td><img src="https://www.hunter-baker.com/resources/gifs/game-jams/fp.gif" style="width:250px; height:150px; object-fit:cover;"></td>
+    <td><img src="https://www.hunter-baker.com/resources/gifs/projects/navsys.gif" style="width:250px; height:150px; object-fit:cover;"></td>
+    <td><img src="https://www.hunter-baker.com/resources/images/projects/lolsummd-preview.png" style="width:250px; height:150px; object-fit:cover;"></td>
+  </tr>
+</table>
+-->
+
 <!-- <code><a href="https://github.com/Rat-Haven-Studios" target="_blank"><img height="32" width="32" src="https://avatars.githubusercontent.com/u/252910622?s=200&v=4" alt="Rat Haven Studios"></a></code> -->
 
 <!-- <code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg" alt="PostgreSQL"></code> -->
