@@ -2,7 +2,7 @@
 
 I am a recent Computer Science graduate who builds solutions. I am currently looking for employment. If you'd like to reach me in any way, you can do that [here](https://www.hunter-baker.com/pages/nav/contact.html). If you wanted to know more about me, you can find everything on my [portfolio](https://www.hunter-baker.com/).
 
-I also like make games as a part of [Rat Haven Studios](https://github.com/Rat-Haven-Studios). You can view and play all of the games I've been a part of making on my [itch.io](https://hutnerr.itch.io/).
+I also like make games as a part of [Rat Haven Studios](https://rat-haven-studios.github.io/website/). You can view and play all of the games I've been a part of making on my [itch.io](https://hutnerr.itch.io/).
 
 **I am currently working on:**
 - [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo
