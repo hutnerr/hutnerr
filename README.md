@@ -29,31 +29,22 @@ All of these projects and more are listed on my [portfolio](https://www.hunter-b
 
 **Languages**
 <br/>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" alt="Java"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rust.svg" alt="Rust"></code>
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
 <br/>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"></code>
-<br/>
-<br/>
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+
 **Tools**
 <br/>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Godot-Dark.svg" alt="Godot"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" alt="Markdown"></code>
-<code><img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord Bots"></code>
-
-**Socials & Links**
-<br/>
-<code><a href="https://www.linkedin.com/in/hunter-b-baker/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"></a></code>
-<code><a href="mailto:hunter.baker.b@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail"></a></code>
-<code><a href="https://leetcode.com/u/hutnerr/" target="_blank"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></a></code>
-<code><a href="https://ko-fi.com/hutner" target="_blank"><img height="32" width="32" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" alt="Ko-fi"></a></code>
-<code><a href="https://hutnerr.itch.io/" target="_blank"><img height="32" width="32" src="https://www.svgviewer.dev/static-svgs/401640/itch-io.svg" alt="itch.io"></a></code>
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" />
