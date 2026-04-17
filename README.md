@@ -4,12 +4,12 @@ I’m a Computer Science graduate focused on backend systems, APIs, and software
 
 I also like make games as a part of [Rat Haven Studios](https://rat-haven-studios.github.io/website/). You can view and play all of the games I've been a part of making on my [itch.io](https://hutnerr.itch.io/).
 
-**I am currently working on:**
-- [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo
+<!-- **I am currently working on:** -->
 
 **Some apps/tools I've published:**
 - [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
+- [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo using the Gemini API. Hosted on AWS.
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art. It posts the [Lospec Daily](https://lospec.com/dailies/) to a channel
 - [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games
@@ -33,23 +33,16 @@ All of these projects and more are listed on my [portfolio](https://www.hunter-b
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
-<br/>
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
 
 **Tools**
 <br/>
 <img height="32" src="https://www.digitalmarketingcommunity.com/wp-content/uploads/2025/06/Claude-logo.jpeg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg" />
-<br/>
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+<img height="32" title="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
 
 **Databases & Cloud**
 <br/>
