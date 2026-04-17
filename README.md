@@ -1,6 +1,6 @@
 <h1> Hey! I am Hunter <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-I am a recent Computer Science graduate who builds solutions. I am currently looking for employment. If you'd like to reach me in any way, you can do that [here](https://www.hunter-baker.com/pages/nav/contact.html). If you wanted to know more about me, you can find everything on my [portfolio](https://www.hunter-baker.com/).
+I’m a Computer Science graduate focused on backend systems, APIs, and software. Currently seeking software engineering roles. If you'd like to reach me in any way, you can do that [here](https://www.hunter-baker.com/pages/nav/contact.html). If you wanted to know more about me, you can find everything on my [portfolio](https://www.hunter-baker.com/).
 
 I also like make games as a part of [Rat Haven Studios](https://rat-haven-studios.github.io/website/). You can view and play all of the games I've been a part of making on my [itch.io](https://hutnerr.itch.io/).
 
@@ -33,18 +33,33 @@ All of these projects and more are listed on my [portfolio](https://www.hunter-b
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
 <br/>
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
 
 **Tools**
 <br/>
+<img height="32" src="https://www.digitalmarketingcommunity.com/wp-content/uploads/2025/06/Claude-logo.jpeg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg" />
+<br/>
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
 <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+
+**Databases & Cloud**
+<br/>
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+
+**Frameworks & Platforms**
+<br/>
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
+<img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" />
