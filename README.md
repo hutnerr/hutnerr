@@ -9,7 +9,7 @@ I also like make games as a part of [Rat Haven Studios](https://rat-haven-studio
 **Some apps/tools I've published:**
 - [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [lolsummd](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
-- [ToneForge](https://github.com/hutnerr/tone-forge) - A Springboot API meant to translate text into a specific lingo using the Gemini API. Hosted on AWS.
+- [ToneForged](https://github.com/hutnerr/tone-forged) - A Springboot API meant to translate text into a specific lingo using the Gemini API. Hosted on AWS.
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art. It posts the [Lospec Daily](https://lospec.com/dailies/) to a channel
 - [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam. Ranked top 6% out of 9,500+ games
