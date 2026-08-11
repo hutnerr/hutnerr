@@ -11,6 +11,7 @@ I also like make games as a part of [Rat Haven Studios](https://rat-haven-studio
 - [LOLSUMMD](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
 - [Lospec Daily Bot](https://github.com/hutnerr/lospec-daily-bot) - Discord Bot to practice Pixel Art by posting the [Lospec Daily](https://lospec.com/dailies/) to a channel
+- [ToneForged](https://github.com/hutnerr/tone-forged) - Spring Boot API to translate text to specific lingos.
 - [Forgotten Paths](https://github.com/Rat-Haven-Studios/gmtk-jam-2025) - Game for the GMTK 2025 game jam (Ranked top 6% out of 9,500+ games)
 - [Massaquerade](https://github.com/Rat-Haven-Studios/melon-jam-2025) - Game for the Winter Melon Jam 2025 (Ranked top 12% out of ~200 games)
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java that is Available on the [Play Store](https://play.google.com/store/apps/details?id=com.hbtipcalc.tipcalculator)
