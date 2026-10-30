@@ -7,7 +7,7 @@ I also like make games as a part of [Rat Haven Studios](https://rat-haven-studio
 <!-- **I am currently working on:** -->
 
 **Some apps/tools I've published:**
-- [GeckoSketch](https://github.com/hutnerr/gecko-sketch) - A desktop app for timed drawing practice, built around your own tagged library of reference images. 
+- [Gesturtle](https://github.com/hutnerr/gesturtle) - A desktop app for timed drawing practice, built around your own tagged library of reference images. 
 - [beast[code]](https://github.com/hutnerr/leetcode-bot) - LeetCode Discord Bot to facilitate DSA practice
 - [LOLSUMMD](https://github.com/hutnerr/lolsummd) - Web app for League of Legends players to aggregate champion mastery points across multiple accounts
 - [Obsidian Attachment Placement](https://github.com/hutnerr/obsidian-attachment-placement) - Plugin for Obsidian which helps with dynamic placement of imported files
