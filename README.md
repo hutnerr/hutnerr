@@ -17,7 +17,6 @@ I also like make games as a part of [Rat Haven Studios](https://rat-haven-studio
 - [Massaquerade](https://github.com/Rat-Haven-Studios/melon-jam-2025) - Game for the Winter Melon Jam 2025 (Ranked top 12% out of ~200 games)
 - [Tip Calculator App](https://github.com/hutnerr/tip-calculator) - Simple Tip Calculator made in Java that is Available on the [Play Store](https://play.google.com/store/apps/details?id=com.hbtipcalc.tipcalculator)
 - [TXTMET](https://github.com/hutnerr/txtmet) - Utility for counting various metrics in text files that is implemented in both C and Rust
-- [PYUtils](https://github.com/hutnerr/python-utils) - Collection of utilities that I frequently use when working with Python
 
 All of these projects and more are listed on my [portfolio](https://www.hunter-baker.com/pages/nav/projects.html) with additional details and information.
 
